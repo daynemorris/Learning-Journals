@@ -35,16 +35,6 @@ tyling to change the background-color from white to black, enhancing their visib
 While the WordPress site editor may initially appear confusing, it becomes quite straightforward after a brief period of familiarization. Importing content is facilitated by the block paragraph feature, which 
 allows you to copy content and images from Joomla and paste them directly into new WordPress pages. Overall, I found WordPress significantly more beginner-friendly than Joomla due to its simple, built-in editor in the backend.
 
-### Classmate activity insights 
-
-During my interactions with classmates, I discovered compatibility with certain teammates. Two out of the three I spoke with appeared to be particularly strong matches.
-
-Both of them prefer a dominant face-to-face meeting schedule with an online backup session if the initial meeting is missed. I believe this approach is beneficial as face-to-face interaction can foster better team motivation.
-
-Additionally, they identify their strengths as initiative within a group, either assuming leadership roles or assisting in leadership. This complements my preference for taking a hands-on worker role to complete tasks efficiently.
-
-While the last teammate shared some core values, they were undecided about their preferred meeting schedule. Their preference for a hybrid approach is not inherently problematic, but I have observed that some individuals tend to lose focus in such arrangements.
-
 
 ## Career/Employability/Learning Insights
 
@@ -56,3 +46,13 @@ During the exercise, I participated in both interviewer and interviewee roles. T
 
 One key learning insight is the importance of online research when encountering difficulties. For example, when I needed to insert an image within a table, a quick Google search led me to the solution of adding custom CSS. 
 I believe my newly acquired skills in child themes and page management will make me a more employable and desirable teammate, capable of researching and adapting my knowledge to various situations.
+
+### Classmate activity insights 
+
+During my interactions with classmates, I discovered compatibility with certain teammates. Two out of the three I spoke with appeared to be particularly strong matches.
+
+Both of them prefer a dominant face-to-face meeting schedule with an online backup session if the initial meeting is missed. I believe this approach is beneficial as face-to-face interaction can foster better team motivation.
+
+Additionally, they identify their strengths as initiative within a group, either assuming leadership roles or assisting in leadership. This complements my preference for taking a hands-on worker role to complete tasks efficiently.
+
+While the last teammate shared some core values, they were undecided about their preferred meeting schedule. Their preference for a hybrid approach is not inherently problematic, but I have observed that some individuals tend to lose focus in such arrangements.
