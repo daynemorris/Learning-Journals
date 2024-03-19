@@ -1,22 +1,21 @@
-Learning Activities & Resources
+# Week 6
 
-Watched Videos on Trello and LinkedIn:
+## Learning Activities & Resources
+
+### Watched Youtube Videos on Trello and LinkedIn:
 
 https://www.youtube.com/watch?v=tVooja0Ta5I
 https://www.youtube.com/watch?v=qG4NF-2tt4c
 
 
-Estimated hours
+## Estimated hours
 Around 8 hours
 
 Content Insights
-Child themes allow for the editing of existing themes without needing modify the main Theme. This allows for customization, without the worry of permanently editing the original design.
-A child theme also allow for the edits to be saved and not be affected by updates to the theme.
-If changes had be made to the original theme, then when an update comes out for the theme, these changes can be overwritten and lost.
-However if a child theme was used instead, when these updates come out the changes can still be applied to the theme as they run off a separate file and the user doesn't have to worry about the changes they created being removed or needing to choose whether or not to update a theme or not.
+Integration is a key tool to have when setting up collaboration with a team. I learned by simulatanouesly having changes made in the GitHub README files show up on Trello it allows for not only connectivity but better backup. LinkedIn is a great professional 
+tool which connects employers and collegues to each other and by linking with my group it allows for better communication between the team and the outside world.
+
 
 Career/Employability/Learning Insights
-Child themes are actively used by website designers to be able to make edits to sites, without needing to worry about changing the complete design of the template.
-I understand using child themes make styling more efficient and able to make changes and not worry about them being removed.
-However as they as for a specific area of development I don't know if I would be using them in the future as This is not an area I am looking at pursuing for my career.
-It was interesting learning about what back end developers go through to create the work they do, But it all depends on where my career goes in the future, as to if I am using child themes in the future.
+A learning insight I made is that by being face to face it allowed our group to work well this week and should be replicated moving forward. Also by learning how to communicate across different integrated methods, I believe it increased my employability as an
+IT professional as well as gave me a look at work inside a potential career. Bouncing ideas off each teammate to find the best possible solution and way to overcome issues leads me to believe I have the people skills and perserverance required. 
