@@ -8,9 +8,12 @@ https://www.youtube.com/watch?v=tVooja0Ta5I
 
 https://www.youtube.com/watch?v=qG4NF-2tt4c
 
+## Followed Links to integrate:
+
+https://github.com/ITatJCU/ProjectManagement/wiki
 
 ## Estimated hours
-Around 8 hours
+Around 4 hours (1 hour reading, 3 hours implementing and discussing with group)
 
 ## Content Insights
 Integration is a key tool to have when setting up collaboration with a team. I learned by simulatanouesly having changes made in the GitHub README files show up on Trello it allows for not only connectivity but better backup. LinkedIn is a great professional 
