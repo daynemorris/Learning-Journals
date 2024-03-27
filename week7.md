@@ -2,7 +2,7 @@
 ## Learning Activities & Resources
 Watched LinkedIn Learning Videos:
 
-First To Setup a Server:
+First to Setup a Server:
 https://www.linkedin.com/learning/installing-apache-mysql-and-php-3
 
 Secondly How to use PHP:
