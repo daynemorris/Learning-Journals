@@ -1,18 +1,19 @@
 # Week 6
 ## Learning Activities & Resources
-Watched Youtube Videos on Trello and LinkedIn:
-https://www.youtube.com/watch?v=tVooja0Ta5I
+Watched LinkedIn Learning Videos:
 
-https://www.youtube.com/watch?v=qG4NF-2tt4c
+First To Setup a Server:
+https://www.linkedin.com/learning/installing-apache-mysql-and-php-3
 
-## Followed Links to integrate:
-https://github.com/ITatJCU/ProjectManagement/wiki
+Secondly How to use PHP:
+https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics
+
 
 Estimated hours
-Around 4 hours (1 hour reading, 3 hours implementing and discussing with group)
+Around 3 hours (2 hour reading, 1 hours building code and testing)
 
 ## Content Insights
-Integration is a key tool to have when setting up collaboration with a team. I learned by simulatanouesly having changes made in the GitHub README files show up on Trello it allows for not only connectivity but better backup. LinkedIn is a great professional tool which connects employers and collegues to each other. By linking with my group it allows for better communication between the team and the outside world.
+An Apache web server facilitates the delivery of web content over the internet. It provides a platform to test and modify PHP code, which functions as an extension of HTML. PHP enables a range of functions including the creation of dynamic page content, gathering form data, handling cookies and sessions, and connecting to databases. Being a server-side programming language, PHP operations occur on the server rather than being visible in the source code of webpages accessed by users.
 
 ## Career/Employability/Learning Insights
-A learning insight I had is that being face-to-face allowed our group to work well this week and should be replicated moving forward. Also, by learning how to communicate across different integrated methods, I believe it increased my employability as an IT professional, as well as provided me with insight into potential career paths. Bouncing ideas off each teammate to find the best possible solution and overcome issues leads me to believe I have the people skills and perseverance required.
+PHP is a widely used programming language employed by numerous websites and CMS services. By acquiring skills and knowledge in PHP, not only does it enhance my employability, but also my proficiency as an IT career professional. One insight I've gained is that PHP bears a striking resemblance to Python. I found it easy to grasp the layout and format of echoes and if/else statements by leveraging the knowledge I've accrued from Python. I am confident that in the future, whether it involves crafting login forms or establishing connections with CMS databases via MySQL, I will leverage the PHP skills I've developed.
