@@ -12,9 +12,9 @@ Throughout the duration of this course I have been employing the same techniques
 To test this hypothesis, I will employ the following approach:
 
 ### Learning Materials: 
-https://www.youtube.com/watch?v=saxKkqr5Zsk
-https://www.youtube.com/watch?v=2dzzMTPR6Ls
-https://www.youtube.com/watch?v=8QOZPdyR-Q8
+- https://www.youtube.com/watch?v=saxKkqr5Zsk
+- https://www.youtube.com/watch?v=2dzzMTPR6Ls
+- https://www.youtube.com/watch?v=8QOZPdyR-Q8
 
 
 ### Pre-Assessment:
@@ -31,3 +31,7 @@ https://www.youtube.com/watch?v=8QOZPdyR-Q8
 Upon completing the Learning Experiment, the following results were observed:
 
 I found that by wathcing Youtube tutorials/videos I was alot more engaged, had better time efficiency and retained more knowledge than the traditional practical resources. Because YouTube videos tend to have more or less a "non-professional" feel it was easier to engage with content from one web designer to another. I found the content alot more relatable and retain more knowledge than in the few LinkedIn video I watched on custom themes. This also improved by time efficiency as I usually just followed some of the walkthroughs and listened to the terms that these creators where saying. In summary, I believe that the learning acitivity of watching Youtube Tutorials helps significantly in the learning process. 
+
+
+# Learning Insights
+
