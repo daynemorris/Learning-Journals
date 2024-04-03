@@ -33,5 +33,7 @@ Upon completing the Learning Experiment, the following results were observed:
 I found that by wathcing Youtube tutorials/videos I was alot more engaged, had better time efficiency and retained more knowledge than the traditional practical resources. Because YouTube videos tend to have more or less a "non-professional" feel it was easier to engage with content from one web designer to another. I found the content alot more relatable and retain more knowledge than in the few LinkedIn video I watched on custom themes. This also improved by time efficiency as I usually just followed some of the walkthroughs and listened to the terms that these creators where saying. In summary, I believe that the learning acitivity of watching Youtube Tutorials helps significantly in the learning process. 
 
 
-# Learning Insights
+# Career/Employability/Learning Insights
+
+Learning Experiments (LE) allow you reflect and analyse if your learning methodology is flawed or productive. I now understand what and why a LE which I believe greatly increases my employability as IT @ JCU professional. By being able to introduce new learning methods into my workflow it allows advances my career path as I can broaden my knowledge and skillsets. As for learning insights, I believe the activity was very productive as it gave me inight into real world techniques professional use on the day to day basis.
 
