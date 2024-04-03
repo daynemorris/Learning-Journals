@@ -11,6 +11,11 @@ Throughout the duration of this course I have been employing the same techniques
 
 To test this hypothesis, I will employ the following approach:
 
+### Learning Materials: 
+https://www.youtube.com/watch?v=saxKkqr5Zsk
+https://www.youtube.com/watch?v=2dzzMTPR6Ls
+https://www.youtube.com/watch?v=8QOZPdyR-Q8
+
 
 ### Pre-Assessment:
 - Before watching any Youtube videos, I will assess my current knowledge and skills gained from the provided practical work. This could entail attempting to create a basic custom theme from scratch using underscores. Documenting time taken, any errors or challenges that occured during the problem solving process.
