@@ -1,4 +1,4 @@
-# Learning Experiment
+# Learning Activities
 
 ## Learning Activity Experiment: 
 Exploring the effectiveness of YouTube Tutorials to strengthen knowledge in Theme Development 
@@ -20,3 +20,9 @@ To test this hypothesis, I will employ the following approach:
 
 ### Post-Assessment:
 - At the end of the week near the time of writing this document I will reassess my knowledge in creating, editing and building custom themes using underscores. I will once again document the time taken and any hardships experienced during the activity. 
+
+## Results:
+
+Upon completing the Learning Experiment, the following results were observed:
+
+I found that by wathcing Youtube tutorials/videos I was alot more engaged, had better time efficiency and retained more knowledge than the traditional practical resources. Because YouTube videos tend to have more or less a "non-professional" feel it was easier to engage with content from one web designer to another. I found the content alot more relatable and retain more knowledge than in the few LinkedIn video I watched on custom themes. This also improved by time efficiency as I usually just followed some of the walkthroughs and listened to the terms that these creators where saying. In summary, I believe that the learning acitivity of watching Youtube Tutorials helps significantly in the learning process. 
