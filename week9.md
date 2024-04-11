@@ -6,7 +6,7 @@ Learnt the basics of Sass:
 - https://www.youtube.com/watch?v=akDIJa0AP5c
 
 Help with setup of Sass:
-https://www.youtube.com/watch?v=q5T1ObJxj2o
+- https://www.youtube.com/watch?v=q5T1ObJxj2o
 
 
 Estimated hours
