@@ -2,8 +2,8 @@
 Watched LinkedIn Learning Videos:
 
 Learnt the basics of Sass:
-https://www.linkedin.com/learning/sass-essential-training/welcome
-https://www.youtube.com/watch?v=akDIJa0AP5c
+- https://www.linkedin.com/learning/sass-essential-training/welcome
+- https://www.youtube.com/watch?v=akDIJa0AP5c
 
 Help with setup of Sass:
 https://www.youtube.com/watch?v=q5T1ObJxj2o
